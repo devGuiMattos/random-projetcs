@@ -1,3 +1,6 @@
+# I was playing with the basics I know about classes. And here's what I did
+# The "math" library was never used in this code... yet
+
 import math
 import random
 
@@ -49,5 +52,3 @@ class System:
         while amount >= 1:
             print("1" * amount)
             amount = amount - 1
-
-System.full_piramid()
