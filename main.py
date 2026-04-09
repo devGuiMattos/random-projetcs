@@ -1,6 +1,6 @@
 import time
 
-num = 1
+num = 2
 while True:
     sqrt = num ** 0.5
     count = 0
